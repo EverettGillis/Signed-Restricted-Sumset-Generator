@@ -1,5 +1,5 @@
 # Signed-Restricted-Sumset-Generator
-Use to determine attributes of h-fold signed, restricted sumsets.
+Use to generate and examine h-fold signed, restricted sumsets.
 
 Let $A$ be of size $m$ and a subset of an abelian group $G$ of order $n$. We are interested in the $h$-fold signed restricted sumset of $A$ defined as
 
