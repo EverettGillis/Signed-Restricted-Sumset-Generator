@@ -1,4 +1,4 @@
-# signed restricted sumset generator (version == 3.0)
+# signed restricted sumset generator (version 3.0; published 3 December 2022)
 # Everett Gillis
 
 
