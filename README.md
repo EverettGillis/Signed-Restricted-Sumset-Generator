@@ -7,6 +7,6 @@ $$h\hat{\_{\pm}}A=\lbrace \lambda\_{1}a_{1}+\cdots+\lambda\_{m}a\_{m} \\ \: \\ \
 
 Using the sumset generator, we may easily characterize the smallest $h$-fold signed restricted sumset of $A$, defined as
 
-$$\rho\hat{\_{\pm}}(n, m, h)=\min\{|h\hat{\_{\pm}}A|\mid A \subseteq G,|A|=m\},$$
+$$\rho\hat{\_{\pm}}(n, m, h)=\min\lbrace |h\hat{\_{\pm}}A|\mid A \subseteq G,|A|=m\rbrace ,$$
 
 for desired $n$, $m$, and $h$.
