@@ -23,4 +23,4 @@ Requirements: Python 3.10, pandas, numpy, matplotlib.
 **Citations**
 \
 \
-E. Gillis (2022) On the Minimum Size of an h-fold Signed Restricted Sumset. Research Papers in Mathematics, B. Bajnok, ed., Gettysburg College, Vol. 25.
+Gillis, E. (2022) On the Minimum Size of an h-fold Signed Restricted Sumset. Research Papers in Mathematics, B. Bajnok, ed., Gettysburg College, Vol. 25.
