@@ -1,5 +1,11 @@
 # Signed-Restricted-Sumset-Generator
 
+**About**
+\
+\
+Generate and examine h-fold signed, restricted sumsets. 
+
+\
 **Overview**
 \
 \
