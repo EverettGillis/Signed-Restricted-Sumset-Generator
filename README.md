@@ -13,16 +13,14 @@ for desired $n$, $m$, and $h$.
 **Intended Use**
 \
 \
-```Signed Restricted Sumset Generator.py``` iterates over desired values of $n$, $m$, and $h$ to calculate minimum sumset size.
-
+```Signed Restricted Sumset Generator.py``` iterates over desired values of $n$, $m$, and $h$ to calculate minimum sumset size.<br/>
 Requirements: Python 3.10.
 
-```Data Analysis Tool.py``` retreives analyzes local data in .xlsx file. Allows for selection of subcases, pattern tests, and graphical representation. Current version requires that paths of .xlsx files and/or subsheets be specified, and custom analysis be hard-coded.
-
+```Data Analysis Tool.py``` retreives analyzes local data in .xlsx file. Allows for selection of subcases, pattern tests, and graphical representation. Current version requires that paths of .xlsx files and/or subsheets be specified, and custom analysis be hard-coded.<br/>
 Requirements: Python 3.10, pandas, numpy, matplotlib.
 
 \
 **Citations**
 \
 \
-E. Gillis, On the Minimum Size of an h-fold Signed Restricted Sumset. Research Papers in Mathematics, B. Bajnok, ed., Gettysburg College, Vol. 25 (2022).
+E. Gillis (2022) On the Minimum Size of an h-fold Signed Restricted Sumset. Research Papers in Mathematics, B. Bajnok, ed., Gettysburg College, Vol. 25.
