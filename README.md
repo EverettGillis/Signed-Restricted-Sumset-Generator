@@ -22,8 +22,8 @@ for desired $n$, $m$, and $h$.
 ```Signed Restricted Sumset Generator.py``` iterates over desired values of $n$, $m$, and $h$ to calculate minimum sumset size.<br/>
 Requirements: Python 3.10.
 
-```Data Analysis Tool.py``` retreives analyzes local data in .xlsx file. Allows for selection of subcases, pattern tests, and graphical representation. Current version requires that paths of .xlsx files and/or subsheets be specified, and custom analysis be hard-coded.<br/>
-Requirements: Python 3.10, pandas, numpy, matplotlib.
+```Data Analysis Tool.py``` analyzes data retrieved from a local .xlsx file. Allows for pattern tests, selection of subcases, and 3D graphical representations. Current version requires that paths of .xlsx files and/or subsheets be specified, and that custom analysis be hard-coded.<br/>
+Requirements: Python 3.10, pandas 1.4.2, numpy 1.22.3, matplotlib 3.5.2.
 
 \
 **Citations**
