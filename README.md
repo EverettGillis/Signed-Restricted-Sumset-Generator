@@ -23,7 +23,7 @@ for desired $n$, $m$, and $h$.
 Requirements: Python 3.10.
 
 ```Data Analysis Tool.py``` analyzes data retrieved from a local .xlsx file. Allows for pattern tests, selection of subcases, and 3D graphical representations. Current version requires that paths of .xlsx files and/or subsheets be specified, and that custom analysis be hard-coded.<br/>
-Requirements: Python 3.10, pandas 1.4.2, NumPy 1.22.3, matplotlib 3.5.2.
+Requirements: Python 3.10, pandas 1.4.2, numpy 1.22.3, matplotlib 3.5.2.
 
 \
 **Citations**
